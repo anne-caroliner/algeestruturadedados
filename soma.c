@@ -1,3 +1,5 @@
+/*Implemente um programa que receba dois números inteiros. A função deverá retornar a soma dos números.*/
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
